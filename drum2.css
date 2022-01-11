@@ -1,0 +1,20 @@
+body { background-image: url("images.jpg");}
+.a{ height: 200px; width: 200px; text-align: center; border-radius: 25%;}
+.song1{ background-image: url("images2.jpg");}
+.song2{ background-image: url("images2.jpg");}
+.song3{ background-image: url("images2.jpg");}
+.song4{ background-image: url("images2.jpg");}
+.song5{ background-image: url("images2.jpg");}
+.song6{ background-image: url("images2.jpg");}
+.song7{ background-image: url("images2.jpg");}
+.song8{ background-image: url("images2.jpg");}
+h1{ color: rgb(255, 255, 255); font-size:70px; font-family:cursive; text-align: center;}
+.head { text-align: center;}
+img { height: 200px; width: 200px; border-radius: 50%; text-align: center;}
+.myimg{ text-align: center;}
+.b{ padding-left: 100px; padding-bottom: 20px;}
+.kaka{ margin-top: 120px;}
+.con{ font-size: 150px;}
+.con:hover{ color: rgb(44, 253, 225);}
+h1:hover{ color: rgb(250, 7, 7);}
+h2{ color: rgb(255, 0, 0); font-size:70px; font-family:cursive; text-align: center;}
